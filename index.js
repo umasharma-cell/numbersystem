@@ -12,10 +12,5 @@ const numbers = [
     }
   }
 
-//   if(flag > 0){
-//     console.log(numbers[i] , "even numbers");
-//   }
-//   else{
-//     console.log(numbers[i] , "odd numbers" );
-//   }
+
   
